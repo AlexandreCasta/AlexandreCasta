@@ -1,7 +1,6 @@
 ## Olá pessoal!
 
 # Sejam bem-vindos ao meu perfil do Github.
-## Meu nome é Alexandre Castanheira e meu apelido é "AlexandreCasta"
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
